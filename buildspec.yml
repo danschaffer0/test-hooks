@@ -11,4 +11,4 @@ phases:
   build:
     commands:
       - echo build...
-      - echo "shit tests failed..."; exit 1
+      - echo "passed..."
